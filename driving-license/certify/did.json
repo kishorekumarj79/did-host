@@ -2,7 +2,7 @@
   "@context": [
     "https://www.w3.org/ns/did/v1"
   ],
-  "id": "did:web:kishorekumarj79.github.io:did-host:driving-license:vc-ed25519",
+  "id": "did:web:kishorekumarj79.github.io:did-host:driving-license:certify",
   "verificationMethod": [
     {
       "id": "did:web:kishorekumarj79.github.io:did-host:driving-license:certify#gm0ojxzFdNI7N5CTZ9G9R5fraQr1cx4l5QRs9SHZ7oA",
