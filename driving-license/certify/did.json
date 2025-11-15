@@ -1,0 +1,22 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/did/v1"
+  ],
+  "id": "did:web:kishorekumarj79.github.io:did-host:driving-license:vc-ed25519",
+  "verificationMethod": [
+    {
+      "id": "did:web:kishorekumarj79.github.io:did-host:driving-license:certify#gm0ojxzFdNI7N5CTZ9G9R5fraQr1cx4l5QRs9SHZ7oA",
+      "type": "Ed25519VerificationKey2020",
+      "controller": "did:web:kishorekumarj79.github.io:did-host:driving-license:certify",
+      "publicKeyMultibase": "z6MkrAGBdVomMdWug7As2FdjeyZYjGmLY3mpDj3Je3vs94of"
+    }
+  ],
+  "assertionMethod": [
+    "did:web:kishorekumarj79.github.io:did-host:driving-license:certify#gm0ojxzFdNI7N5CTZ9G9R5fraQr1cx4l5QRs9SHZ7oA"
+  ],
+  "authentication": [
+    "did:web:kishorekumarj79.github.io:did-host:driving-license:certify#gm0ojxzFdNI7N5CTZ9G9R5fraQr1cx4l5QRs9SHZ7oA"
+  ],
+  "service": [],
+  "alsoKnownAs": []
+}
