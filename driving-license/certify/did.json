@@ -12,10 +12,10 @@
     }
   ],
   "assertionMethod": [
-    "did:web:kishorekumarj79.github.io:did-host:driving-license:certify#gm0ojxzFdNI7N5CTZ9G9R5fraQr1cx4l5QRs9SHZ7oA"
+    "did:web:kishorekumarj79.github.io:did-host:driving-license:certify#4stFPSYEtgXvmf5n2bOE3akz-xT63JXZW6PxExj19VA"
   ],
   "authentication": [
-    "did:web:kishorekumarj79.github.io:did-host:driving-license:certify#gm0ojxzFdNI7N5CTZ9G9R5fraQr1cx4l5QRs9SHZ7oA"
+    "did:web:kishorekumarj79.github.io:did-host:driving-license:certify#4stFPSYEtgXvmf5n2bOE3akz-xT63JXZW6PxExj19VA"
   ],
   "service": [],
   "alsoKnownAs": []
