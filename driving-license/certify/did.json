@@ -5,7 +5,7 @@
   "id": "did:web:kishorekumarj79.github.io:did-host:driving-license:certify",
   "verificationMethod": [
     {
-      "id": "did:web:kishorekumarj79.github.io:did-host:driving-license:certify#gm0ojxzFdNI7N5CTZ9G9R5fraQr1cx4l5QRs9SHZ7oA",
+      "id": "did:web:kishorekumarj79.github.io:did-host:driving-license:certify#4stFPSYEtgXvmf5n2bOE3akz-xT63JXZW6PxExj19VA",
       "type": "Ed25519VerificationKey2020",
       "controller": "did:web:kishorekumarj79.github.io:did-host:driving-license:certify",
       "publicKeyMultibase": "z6Mkssgpss52W1mW7zs71DfnEdC5RRWCiERkiLwQ9EKZ1tVD"
