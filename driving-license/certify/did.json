@@ -8,7 +8,7 @@
       "id": "did:web:kishorekumarj79.github.io:did-host:driving-license:certify#UHkaJcUN7rLgg7tHJUw5Jp6GNl_x_gxJh2seAW3Tez0",
       "type": "Ed25519VerificationKey2020",
       "controller": "did:web:kishorekumarj79.github.io:did-host:driving-license:certify",
-      "publicKeyMultibase": "z6MkkgZtNJfb27Q5E6K35BfSbr4e7ajGSDDiGVbT5kLmSSJb"
+      "publicKeyMultibase": "z6Mkrpa7dk9UbsbHzm5cUTXe91Mq3MXueoF4QahpE4Z2vRRQ"
     }
   ],
   "assertionMethod": [
