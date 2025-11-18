@@ -5,17 +5,17 @@
   "id": "did:web:kishorekumarj79.github.io:did-host:driving-license:certify",
   "verificationMethod": [
     {
-      "id": "did:web:kishorekumarj79.github.io:did-host:driving-license:certify#UHkaJcUN7rLgg7tHJUw5Jp6GNl_x_gxJh2seAW3Tez0",
+      "id": "did:web:kishorekumarj79.github.io:did-host:driving-license:certify#Ay8V3y_VP-O-iQr6UVIF4i92DbLXeTfB6Yn9YXTzyhE",
       "type": "Ed25519VerificationKey2020",
       "controller": "did:web:kishorekumarj79.github.io:did-host:driving-license:certify",
       "publicKeyMultibase": "z6Mki8Xw79tovu7DB93ZKovz8TaZptGqXEtZV63iV1LwhgTM"
     }
   ],
   "assertionMethod": [
-    "did:web:kishorekumarj79.github.io:did-host:driving-license:certify#UHkaJcUN7rLgg7tHJUw5Jp6GNl_x_gxJh2seAW3Tez0"
+    "did:web:kishorekumarj79.github.io:did-host:driving-license:certify#Ay8V3y_VP-O-iQr6UVIF4i92DbLXeTfB6Yn9YXTzyhE"
   ],
   "authentication": [
-    "did:web:kishorekumarj79.github.io:did-host:driving-license:certify#UHkaJcUN7rLgg7tHJUw5Jp6GNl_x_gxJh2seAW3Tez0"
+    "did:web:kishorekumarj79.github.io:did-host:driving-license:certify#Ay8V3y_VP-O-iQr6UVIF4i92DbLXeTfB6Yn9YXTzyhE"
   ],
   "service": [],
   "alsoKnownAs": []
