@@ -1,0 +1,22 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/did/v1"
+  ],
+  "id": "did:web:kishorekumarj79.github.io:did-host:social-grant:certify",
+  "verificationMethod": [
+    {
+      "id": "did:web:kishorekumarj79.github.io:did-host:social-grant:certify#AGnXeuRIQq6xGSr6MvA7ivC2IkNLvGLTDF6KwAZuBQo",
+      "type": "Ed25519VerificationKey2020",
+      "controller": "did:web:kishorekumarj79.github.io:did-host:social-grant:certify",
+      "publicKeyMultibase": "z6MkvWhimeGML1WtkqdtUiXa9ToSgQnLDPbJhc35waFZcBmV"
+    }
+  ],
+  "assertionMethod": [
+    "did:web:kishorekumarj79.github.io:did-host:social-grant:certify#AGnXeuRIQq6xGSr6MvA7ivC2IkNLvGLTDF6KwAZuBQo"
+  ],
+  "authentication": [
+    "did:web:kishorekumarj79.github.io:did-host:social-grant:certify#AGnXeuRIQq6xGSr6MvA7ivC2IkNLvGLTDF6KwAZuBQo"
+  ],
+  "service": [],
+  "alsoKnownAs": []
+}
