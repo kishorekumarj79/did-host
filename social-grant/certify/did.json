@@ -8,7 +8,7 @@
       "id": "did:web:kishorekumarj79.github.io:did-host:social-grant:certify#ONx8VmxShuxXd85mVziTk2AAPagZR-NMLd3caJU6fwI",
       "type": "Ed25519VerificationKey2020",
       "controller": "did:web:kishorekumarj79.github.io:did-host:social-grant:certify",
-      "publicKeyMultibase": "z6MkiBpxpEAaX726H8vBfEw7qFFMHs93V94ruGmZ35gevzhN"
+      "publicKeyMultibase": "z6MkvCAfgx22pEVSA9ekjJsKK4yKJjQbLnQyCjKwQdnjxxhs"
     }
   ],
   "assertionMethod": [
