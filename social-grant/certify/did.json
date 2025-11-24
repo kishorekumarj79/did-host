@@ -5,17 +5,17 @@
   "id": "did:web:kishorekumarj79.github.io:did-host:social-grant:certify",
   "verificationMethod": [
     {
-      "id": "did:web:kishorekumarj79.github.io:did-host:social-grant:certify#ONx8VmxShuxXd85mVziTk2AAPagZR-NMLd3caJU6fwI",
+      "id": "did:web:kishorekumarj79.github.io:did-host:social-grant:certify#UHNnpAY2hEkSnXqkc3aS07EgTEaw9WC64kpO3jvP9X0",
       "type": "Ed25519VerificationKey2020",
       "controller": "did:web:kishorekumarj79.github.io:did-host:social-grant:certify",
-      "publicKeyMultibase": "z6MkvCAfgx22pEVSA9ekjJsKK4yKJjQbLnQyCjKwQdnjxxhs"
+      "publicKeyMultibase": "z6MkwCFYG6eHrJUBEfsFjBiuzqz6zSVi136zHo2gRCxRrqZo"
     }
   ],
   "assertionMethod": [
-    "did:web:kishorekumarj79.github.io:did-host:social-grant:certif#ONx8VmxShuxXd85mVziTk2AAPagZR-NMLd3caJU6fwI"
+    "did:web:kishorekumarj79.github.io:did-host:social-grant:certif#UHNnpAY2hEkSnXqkc3aS07EgTEaw9WC64kpO3jvP9X0"
   ],
   "authentication": [
-    "did:web:kishorekumarj79.github.io:did-host:social-grant:certify#ONx8VmxShuxXd85mVziTk2AAPagZR-NMLd3caJU6fwI"
+    "did:web:kishorekumarj79.github.io:did-host:social-grant:certify#UHNnpAY2hEkSnXqkc3aS07EgTEaw9WC64kpO3jvP9X0"
   ],
   "service": [],
   "alsoKnownAs": []
